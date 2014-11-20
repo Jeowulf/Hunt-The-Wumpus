@@ -1,7 +1,7 @@
 Hunt-The-Wumpus
 ===============
 
-Hunt The Wumpus implemented in Javascript
+Hunt The Wumpus implemented in Coffeescript for Hubot
 
 Next steps:
 Implement shoot
